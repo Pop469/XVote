@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">XVote</string>
+    <string-array name="faculty_array">
+        <item>School of Economics and Management</item>
+        <item>School of Humanities and Communication</item>
+        <item>School of Energy and Chemical Engineering</item>
+        <item>China-ASEAN College of Marine Sciences</item>
+        <item>School of Electrical and Computer Engineering</item>
+        <item>School of Traditional Chinese Medicine</item>
+        <item>School of Mathematics and Physics</item>
+        <item>School of Foundation Studies</item>
+    </string-array>
+</resources>
